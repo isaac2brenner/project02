@@ -1,0 +1,79 @@
+.ieb-nav-bar{
+    background-color: #EEBD22;
+}
+/*
+@media (min-width:1280px @screen-sm-min){
+
+}
+*/
+/*
+@media screen and (min-width: 1920px){
+    .hero-bg-img{
+        width: 100vw;
+    }
+}
+*/
+
+
+
+
+  /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    .ieb-bg {background-color:#302432;}
+    .ieb-text-grey{color: F0F0F0;}
+    .ieb-button{background-color: #EEBD22;}
+    .scrollin-space{height: 300px;}
+    .button-color{background-color: #EEBD22;}
+    .ieb-button-width{width:400px;}
+    .ieb-from-top-5{margin-top: 5%;}
+    .ieb-text-black{color: black;}
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .ieb-bg {background-color:#302432;}
+    .ieb-text-grey{color: F0F0F0;}
+    .ieb-button{background-color: #EEBD22;}
+    .scrollin-space{height: 300px;}
+    .button-color{background-color: #EEBD22;}
+    .ieb-button-width{width:400px;}
+    .ieb-from-top-5{margin-top: 5%;}
+    .ieb-text-black{color: black;}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .ieb-bg {background-color:#302432;}
+    .ieb-text-grey.text-grey{color: F0F0F0;}
+    .ieb-button{background-color: #EEBD22;}
+    .scrollin-space{height: 300px;}
+    .button-color{background-color: #EEBD22;}
+    .ieb-button-width{width:400px;}
+    .ieb-from-top-5{margin-top: 5%;}
+    .ieb-text-black{color: black;}
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .ieb-bg {background-color:#302432;}
+    .ieb-text-grey{color: F0F0F0;}
+    .ieb-button{background-color: #EEBD22;}
+    .scrollin-space{height: 300px;}
+    .button-color{background-color: #EEBD22;}
+    .ieb-button-width{width:400px;}
+    .ieb-from-top-5{margin-top: 5%;}
+    .ieb-text-black{color: black;}
+    
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .ieb-bg {background-color:#302432;}
+    .ieb-text-grey{color: F0F0F0;}
+    .ieb-button{background-color: #EEBD22;}
+    .scrollin-space{height: 300px;}
+    .button-color{background-color: #EEBD22;}
+    .ieb-button-width{width:400px;}
+    .ieb-from-top-5{margin-top: 5%;}
+    .ieb-text-black{color: black;}
+}
